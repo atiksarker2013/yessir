@@ -1,9 +1,5 @@
 ﻿using Prism.Commands;
-using Prism.Mvvm;
 using Prism.Navigation;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using YesSir.App.Helpers;
 
 namespace YesSir.App.ViewModels

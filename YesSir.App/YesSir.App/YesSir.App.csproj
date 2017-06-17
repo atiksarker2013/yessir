@@ -36,8 +36,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Helpers\Settings.cs" />
+    <Compile Include="Model\CustomMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\BaseViewModel.cs" />
+    <Compile Include="Model\CustomPin.cs" />
     <Compile Include="ViewModels\MainPageViewModel.cs" />
   </ItemGroup>
   <ItemGroup>

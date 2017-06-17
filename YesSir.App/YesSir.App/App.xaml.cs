@@ -7,6 +7,8 @@ namespace YesSir.App
 {
     public partial class App : PrismApplication
     {
+        public static double ScreenHeight;
+        public static double ScreenWidth;
         public App(IPlatformInitializer initializer = null) : base(initializer) { }
 
         protected override void OnInitialized()
